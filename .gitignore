@@ -170,4 +170,5 @@ poetry.toml
 
 # venv_useless_file
 venv.txt
-data/*
+data/resume_job_other_data
+data/ResumeJobOtherDataa.csv
